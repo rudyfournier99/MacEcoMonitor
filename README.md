@@ -18,6 +18,6 @@ L'application propose une interface épurée pour surveiller l'état matériel d
 1. Ouvrez le projet dans **Xcode** sur un Mac.
 2. Cliquez sur le bouton *Play* (ou `Cmd + R`) pour lancer l'application dans le simulateur ou directement sur votre Mac.
 
-## 📈 Évolutions prévues :
+## Évolutions prévues :
 * [ ] Remplacer le code de simulation par un vrai appel système `Process()` pour exécuter la commande `/sbin/ping`.
 * [ ] Ajouter une alerte visuelle de type *Notification Mac* si l'infrastructure réseau ne répond plus.
